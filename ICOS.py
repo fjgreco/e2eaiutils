@@ -1,6 +1,3 @@
-# %load ICOS.py
-#Last modification: 03.25.2023
-
 import ibm_boto3
 from ibm_botocore.client import Config, ClientError
 from datetime import datetime
