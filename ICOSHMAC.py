@@ -1,7 +1,3 @@
-#%load ICOSHMAC.py
-
-#Last modification: 03.21.2023
-
 import ibm_boto3
 from ibm_botocore.client import Config, ClientError
 from datetime import datetime
